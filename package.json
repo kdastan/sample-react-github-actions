@@ -17,8 +17,22 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "test": "react-scripts test",
+    "test": "jest",
+    "precommit": "npm run test",
     "eject": "react-scripts eject"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "./src/setupTests.js"
+    ],
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run test"
+    }
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,6 +50,15 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "babel-jest": "^25.3.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "enzyme-to-json": "^3.4.4",
+    "gh-pages": "^2.2.0",
+    "husky": "^4.2.5",
+    "jest": "^25.3.0"
   }
 }

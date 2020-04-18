@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render correctly 1`] = `
+<Link
+  to="/about"
+>
+  Navigate to about page
+</Link>
+`;

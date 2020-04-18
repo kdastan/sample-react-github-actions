@@ -1,4 +1,4 @@
-import Main from "./main";
-import About from "./about";
+import Main from "./Main/Main";
+import About from "./About/About";
 
 export { Main, About };
