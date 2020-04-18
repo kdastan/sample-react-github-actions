@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/sample-react-github-actions/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sample-react-github-actions/static/js/main.80ed4e45.chunk.js",
-    "main.js.map": "/sample-react-github-actions/static/js/main.80ed4e45.chunk.js.map",
+    "main.css": "/sample-react-github-actions/static/css/main.34de6062.chunk.css",
+    "main.js": "/sample-react-github-actions/static/js/main.3cbf61cd.chunk.js",
+    "main.js.map": "/sample-react-github-actions/static/js/main.3cbf61cd.chunk.js.map",
     "runtime-main.js": "/sample-react-github-actions/static/js/runtime-main.a8d04741.js",
     "runtime-main.js.map": "/sample-react-github-actions/static/js/runtime-main.a8d04741.js.map",
-    "static/js/2.dc110b2a.chunk.js": "/sample-react-github-actions/static/js/2.dc110b2a.chunk.js",
-    "static/js/2.dc110b2a.chunk.js.map": "/sample-react-github-actions/static/js/2.dc110b2a.chunk.js.map",
+    "static/js/2.92baa912.chunk.js": "/sample-react-github-actions/static/js/2.92baa912.chunk.js",
+    "static/js/2.92baa912.chunk.js.map": "/sample-react-github-actions/static/js/2.92baa912.chunk.js.map",
     "index.html": "/sample-react-github-actions/index.html",
-    "precache-manifest.a54602a9c9ca729f7f3029c8821d0dff.js": "/sample-react-github-actions/precache-manifest.a54602a9c9ca729f7f3029c8821d0dff.js",
+    "precache-manifest.1708407306ebfe124e8512aea22477ba.js": "/sample-react-github-actions/precache-manifest.1708407306ebfe124e8512aea22477ba.js",
     "service-worker.js": "/sample-react-github-actions/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sample-react-github-actions/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.dc110b2a.chunk.js.LICENSE.txt": "/sample-react-github-actions/static/js/2.dc110b2a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sample-react-github-actions/static/media/logo.5d5d9eef.svg"
+    "static/css/main.34de6062.chunk.css.map": "/sample-react-github-actions/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.92baa912.chunk.js.LICENSE.txt": "/sample-react-github-actions/static/js/2.92baa912.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8d04741.js",
-    "static/js/2.dc110b2a.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.80ed4e45.chunk.js"
+    "static/js/2.92baa912.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.3cbf61cd.chunk.js"
   ]
 }
