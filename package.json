@@ -2,6 +2,7 @@
   "name": "sample-react-github-actions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kdastan.github.io/sample-react-github-actions/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
